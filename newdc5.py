@@ -1,7 +1,5 @@
 """This Code will take search terms and desired number of results from the user and use TFIDF and cosine similarity to
-provide the most relevant results in our dataset of 2467 TED Talks based on transcripts of those talks.
-External sources: Per usual, Stack overflow helped throughout, and Deangela Neves blog (medium.com/@deangelaneves)
-helped in better understanding tfidf and cosine similarity calculations"""
+provide the most relevant results in our dataset of 2467 TED Talks based on transcripts of those talks."""
 
 import pandas as pd
 import nltk
